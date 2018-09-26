@@ -17,6 +17,8 @@ namespace GitHubDemo
             Console.WriteLine("#DevOK");
             Console.WriteLine("#TestOK");
             
+            Console.WritreLine("%Its Done");
+            
         }
     }
 }
